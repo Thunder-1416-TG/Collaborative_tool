@@ -1,0 +1,13 @@
+{
+  "name": "websocket-server",
+  "version": "1.0.0",
+  "description": "WebSocket server for collaborative whiteboard",
+  "main": "websocket-server.js",
+  "scripts": {
+    "start": "node websocket-server.js",
+    "dev": "node websocket-server.js"
+  },
+  "dependencies": {
+    "ws": "^8.14.2"
+  }
+}
